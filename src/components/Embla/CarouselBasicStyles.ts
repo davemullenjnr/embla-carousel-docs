@@ -5,7 +5,7 @@ import { breakpoints, LAYERS, supportsStyles } from 'consts'
 import { PlainButton } from 'components/Button'
 import { createSquareSizeStyles } from 'utils'
 
-const CAROUSEL_HEIGHT = '22.2rem'
+const CAROUSEL_HEIGHT = '28rem'
 export const CAROUSEL_SPACING = '1.6rem'
 export const CAROUSEL_RADIUS = '0.4rem'
 export const ITEM_SPACING = '1rem'
